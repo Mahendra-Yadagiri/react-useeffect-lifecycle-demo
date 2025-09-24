@@ -32,5 +32,6 @@ CSS – Styling
 📸 Screenshots
 Home Page
 Scoreboard with Updates
+
 Live Demo:https://useeffecthook-react-task-25.netlify.app/
 
